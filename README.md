@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # E-commerce Shopping Website with FakeStore Api
 
 This is a fully responsive e-commerce shopping website project built using React and Tailwind CSS. The website utilizes the Fake Store API to fetch data and display products. The Context API is used to manage state throughout the application.
@@ -46,3 +47,6 @@ Below are some screenshots of the website.
 
 Thank you! 🤍
 – Nigar Safarova# E-commerce
+=======
+# E-commerceSite
+>>>>>>> 3fe76a7f52931e457a83895a8cc425fc56c91860
