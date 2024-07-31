@@ -45,4 +45,4 @@ Below are some screenshots of the website.
 
 
 Thank you! 🤍
-– Nigar Safarova
+– Nigar Safarova# E-commerce
